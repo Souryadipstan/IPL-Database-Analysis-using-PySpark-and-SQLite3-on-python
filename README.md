@@ -16,7 +16,7 @@ I have created a database and imported three tables into the database. Then, I r
 
 ## Database Schema
 
-![databse schema](https://github.com/Souryadipstan/IPL-Database-Analysis-using-PySpark-and-SQLite3-on-python/ipl_dataset_2/ipl_dataset_schema.png?raw=true)
+![databse schema](https://raw.github.com/IPL-Database-Analysis-using-PySpark-and-SQLite3-on-python/ipl_dataset_2/ipl_dataset_schema.png)
 
 ## Queries
 
