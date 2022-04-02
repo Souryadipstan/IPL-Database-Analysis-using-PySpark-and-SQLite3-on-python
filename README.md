@@ -1,4 +1,9 @@
 # IPL-Database-Analysis-using-PySpark-and-SQLite3-on-python
+
+![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
+
+## About the Project
+
 I have created a database and imported three tables into the database. Then, I ran several SQL queries to find out several facts related to IPL matches. I have done the work using both pyspark and sqlite3 module. To implement sqlite3 I have written a class then, created an object and worked with the object to fetch the query results.
 
 ## Libraries Used
