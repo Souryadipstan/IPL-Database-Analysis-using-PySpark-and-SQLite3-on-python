@@ -19,7 +19,6 @@ class Database:
         
     def execute(self, sql_query):
         self.cur.execute(sql_query)
-        print(self.cur.fetchall())
 
     def get_query1_result(self):
         self.cur.execute("""
